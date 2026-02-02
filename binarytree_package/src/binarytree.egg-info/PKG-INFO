@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: binarytree
+Version: 1.0.0
+Summary: Binary Tree implementation with YAML support
+Home-page: UNKNOWN
+Author: Your Name
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
